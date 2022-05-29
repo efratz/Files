@@ -12,8 +12,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //H.W from lesson 1
-
             Random r = new Random();
             int[] arr = new int[100];
             string path = @"numbers.txt";
